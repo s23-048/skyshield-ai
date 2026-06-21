@@ -313,10 +313,10 @@ def main():
         else:
             # Dropdowns populated from dataset
             if df is not None:
-                aircraft_options = sorted(df["AIRCRAFT"].astype(str).unique().tolist())
-                phase_options = sorted(df["PHASE_OF_FLIGHT"].astype(str).unique().tolist())
-                species_options = sorted(df["SPECIES"].astype(str).unique().tolist())
-                time_options = sorted(df["TIME_OF_DAY"].astype(str).unique().tolist())
+                aircraft_options = sorted([str(x) for x in df["AIRCRAFT"].dropna().unique()])
+                phase_options = sorted([str(x) for x in df["PHASE_OF_FLIGHT"].dropna().unique()])
+                species_options = sorted([str(x) for x in df["SPECIES"].dropna().unique()])
+                time_options = sorted([str(x) for x in df["TIME_OF_DAY"].dropna().unique()])
             else:
                 aircraft_options = ["NARROWBODY", "WIDEBODY", "BUSINESS JET", "GA SINGLE", "UNKNOWN"]
                 phase_options = ["TAKEOFF", "LANDING", "CLIMB", "APPROACH", "CRUISE", "UNKNOWN"]
