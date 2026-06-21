@@ -1,0 +1,93 @@
+Event ID: 20041105X01764
+
+Analysis:
+The Safety Board's full report is available at http://www.ntsb.gov/publictn/publictn.htm. The Aircraft Accident Report number is NTSB/AAR-80/02.
+
+About 1607 e.d.t., on August 2, 1979, a Cessna Citation piloted by Mr. Thurman L. Munson crashed short of runway 19 at the Akron-Canton Airport near Canton, Ohio.  The pilot was practicing touch-and-go landings during a local flight with two passengers aboard.  The aircraft first touched down in a relatively level, clear area about 870 feet short of the runway.  The aircraft slid through a small clump of trees, hit a large stump, and came to rest on a road adjacent to the airport boundary fence.  Fire erupted immediatgley afther the aircraft came to rest.  The two passengers escaped from the wreckage; the pilot was killed.
+
+Factual Information:
+The Safety Board's full report is available at http://www.ntsb.gov/publictn/publictn.htm. The Aircraft Accident Report number is NTSB/AAR-80/02.
+
+History of Flight
+Earlier in the day Pilot Munson had invited two of his acquaintances Mr. Hull and Mr. Anderson to accompany him on a local flight in his recently purchased aircraft.  Both passengers were rated pilots but stated that they had not ridden in light, jet aircraft prior to this ride.  Mr. Hall whose principal occupation is flight instructor had instructed Mr. Munson during his flight training for his instrument rating.
+
+Mr. Hall was occupying the right, front seat and Mr. Anderson was riding the seat just behind the cockpit.
+
+Initial takeoff was on Runway 23 (5598' x 150') and the pilot remained in closed traffic to perform touch and go landings,  The first two touch and goes were normal except both passengers were in agreement that pattern altitude was flown higher than normal (2700' m.s.l.) and airspeeds were fast.
+
+On the third touch and go the aircraft was observed to touch down at near midfield.  When questioned about this Mr. Hall stated that Pilot Munson had invited him to shoot a no flap landing and due to his lack of familiarity with the aircraft he had landed long.  Pilot Munson made the third takeoff.  For separation of other light and slow aircraft in the pattern the Air Traffic Control Specialist (ATCS) requested he fly a right downwind for Runway 19 (6398' 150") for traffic spacing.  The passengers again reported a high downwind about 3500' m.s.l. at about 200 knots indicated air speed (KIAS). The downwind was reported to be wide.  Mr. Hall estimated 3.5 miles west of the airport.  This is attributed to the maneuvering required for a Runway 23 departure and turn onto a Runway 19 downwind.
+
+Mr. Munson had not used a checklist on the previous approached but had extended the gear and flaps just prior to turning base leg.  On this approach he reduced power to or about idle on the downwind to reduce airspeed/altitude and when the gear warning horn sounded manually shut the horn off.  Turn onto base was also reported as further out than normal from the runway threshold.  This may be attributed to the ATCS request to extend the downwind for additional spacing requirements.  Neither passenger started to become apprehensive about the aircraft operation until beginning the turn onto final approach.  At this time Mr. Hall, by reference to the red VASI  display was aware that they were below the glide path and still descending while still some 4000 feet - 5000 feet from runway threshold.  In addition he knew the gear was not extended and made a comment to Pilot Munson to that effect who immediately extended the gear which further increased the sink rate.  No flaps were extended during this approach.
+
+Pilot Munson's hand then returned to the throttles which were "pretty well throttled back at that point"  and he "sort of inched them forward and at that point I wouldn't feel or couldn't sense any response at all" (Anderson).
+
+Shortly after this Pilot Munson advanced the throttles full forward but Mr. Anderson states "Of course that's when our sink rate was pretty strong  in coming out.  I felt that the left wing dropped off as we sunk".  Mr. Anderson stated that the only instrument he was watching was the airspeed and I was sure it was nailed right on the bug"  (93 KIAS) (It is noted that the operating procedures for a not flap approach requires an airspeed of V ref plus 20 knots.)
+
+The final approach crosses Interstate 77, 3,300' from the threshold of Runway 19.  A Mr. Martin D. Jacobson, Canton, Ohio was riding as a passenger in a car proceeding southeasterly on the Interstate when N15Y crossed from left to right in front of his vehicle.  He estimated aircraft height at about "50 to 75 feet" and still descending.  He described aircraft speed was "going very slowly".  The VASI glideslope in this area is about 200 feet above ground level (AGL).
+
+He states the aircraft was "skimming the trees" as it passed to his right.  Shortly thereafter he saw the black smoke and flames from the accident site.  Mr. Jacobson could not positively state the status of the gear, flaps or speed brakes during his observation of the aircraft.
+
+Injuries to Persons
+After exiting the aircraft the two passengers incurred second degree burns to the fuel fed ground fire.  The Pilot received various head and body injuries that evidently rendered him incapable of exiting the aircraft and died of asphyxiation.
+
+Damage to Aircraft
+Initial damage occurred during ground runout when the wheel struck a ditch and collapsed.  The aircraft then entered a grove of small trees resulting in fractures to the leading edge of the wet wings and fuel leakage.  The aircraft then struck the tree stump, spun almost 180 (degrees) and stopped on Greenburg Road.  The aircraft was then fire destroyed by the leaking fuel.
+
+Other Damage
+There was minor fire and heat damage to the bituminous surface of Greenburg Road.
+
+Personnel Information
+Pilot Munson's initial flight training log entry was dated February 27, 1978.  The training was started in the Boca Raton area primarily in Cessna 150 152 an 172 type aircraft and continued until April 10th.  At this time he transferred his flight activities to the Teterboro, New Jersey area at total time of 59.9 hours and began Beech "Duke" B-60 training.  On June 11th  he passed his Private Pilot flight check in a Cessna 172 type aircraft PIC 25.0 hours, Dual 65.2 hours, B-60 23.8 hours.  On June 15th Mr. Munson was certified for a multi-engine rating.  He qualified for his rating in the B-60 type aircraft.  On February 10, 1979 at total time of 330 hours Mr. Munson purchased and began flying a "King Air" Beech E-90 aircraft.  He flew this aircraft, N22453, until he purchased N15NY on July 6, 1979.  Total logged pilot time at time of purchase was 480 hours, 428 multi-engine hours, 63 single engine hours, 165 dual hours, PIC 318 hours (log was not audited).  Mr. Munson flew a total of nine hours of "demo" rides in the Citation, six hours in December 1978 and 3 hours in April 1979, prior to beginning his flight training for type rating on July 6, 1979.
+
+Flight Safety International of Wichita, Kansas conducted the ground, simulator, and flight training for type rating.  The flight training consisted of 10 flights, six cross-country, 4 local for a total of 21.7 hours which included 24 landings.  On July 17 Pilot Munson obtained his type rating on a 1.5 hour flight which included 8 landings.  Total pilot time at time of type rating was 505.6 hours.  Total landings in all types of equipment was approximately 688.
+
+The type rating flight check was performed in N488CC a 501 model as N15NY was down for power plant repair.  (See Aircraft Information Section).  In the 16 days following the type rating check Pilot Munson flew an additional 10.6 hours.  His total time, 4.1 hours, as single pilot, pilot-in-command, of the 501 model was flown during this period.  This time was accumulated on flights from Akron to Columbus, Ohio and return on July 26th.  To Chicago on July 29th and the return flight to Akron in the early morning hours of August 2.
+
+Aircraft Information
+
+N15NY on Cessna 501, Serial Number 501-0110 model aircraft was properly certified and regulated to Mr. Munson.  The Model 501 Cessna has been FAA certified for a single pilot operation.  After the accident a load manifest was reconstructed which disclosed that initial ramp weight before beginning the day's flight was 9, 050 pounds.  The 300 pound fuel burn off during the three subsequent touch and go landing would have reduced aircraft weight to 8,750 pounds at the time of accident occurrence.  Maximum gross operating weight is 11,850 pounds.  The recommended V ref speed for 8,750 pounds gross operating weight is 95.5 KIAS full flap configuration.  The  flight manual classifies a no flap landing  configuration as an "Abnormal" operation and requires a 20 KIAS increase in the V ref computed speed.  No flap stall speed for elevation/temperature condition present was 74 KIAS.  Aircraft total time at accident occurrence was 43.1 hours.  On July 15, while on a cross-country flight both engines had incurred foreign object damage (FOD) due to ice injection.  Repair was completed on July 21 an the engines were in normal operating condition at the time of the accident.  The no flap configuration was verified by visual examination of the flap drive mechanism.
+
+Meteorological Information
+Recorded observations for the Akron-Canton Aircraft were:
+1556 EDT
+Three thousand feet scattered clouds, estimated for thousand feet broken cloud layer.  Visibility ten miles, temperature seventy six degrees fahrenheit, dew point sixty two degrees.  Wind from two hundred eighty degrees, velocity nine knots.  Altimeter setting two nine point nine nine seven.
+
+1604 EDT
+Three thousand feet scattered clouds, estimated four thousand feet broken cloud layer.  Visibility ten miles, temperature seventy-seven degrees/fahrenheit, dewpoint sixty-three degrees.  Wind from two hundred eight degrees velocity eleven knots.  Altimeter setting two nine point nine seven.
+
+Aids to Navigation
+The navigational aids at the airport were not being utilized or required for the flight being performed.
+
+Communications
+The Akron-Canton Regional Airport is a controlled airport and services general aviation, air taxi, corporate, and scheduled air carrier traffic.  During the period N15NY was airborne the tower Air Traffic Control Specialist worked traffic in all of the above categories with no reported communication or traffic difficulties.
+
+A transcript of the tower communications covering the period N15NY requested taxi instructions until accident occurrence has been made an attachment to this report.
+
+Aerodrome Information
+The Akron-Canton Regional Airport elevation 1217 feet m.s.l., is located at near midpoint between the two Ohio cities.  The airport consists of three hard, runways Runway 19 being the longest 6397 feet X 150 feet. The approach end of Runway 19 was lengthened toward Greenburg Road resulting in the runway assuming a pier like formation an being fifty feet higher than the road on which the aircraft terminated the ground runout.
+
+Flight Recorder
+Was not required or installed on N15NY
+
+Wreckage and Impact Information
+Accident site was 40 degrees 55" N. 81 degrees 77" W.  The aircraft initially touched down at a distance about 2,430 feet after passing over Interstate 77.  This is 870 feet short of Runway 19 threshold and 1870 feet short of VASI designated runway touchdown point.
+
+Initial ground contact was made in an open, fairly level, uncultivated field.  The left, main, gear made first contact followed in 70 feet by the right main and them the nose gear.  The aircraft ran out a distance of 270 feet and stopped on Greenburg Road 600 feet short of runway threshold.
+
+Medical and Pathological Information
+The autopsy/toxicological reports had no findings of pilot anatomical derangements which could be considered as a contributing or causative factor to the accident.
+
+Fire
+There was approximately 1500 pounds of fuel aboard at time of occurrence.  All of the fuel ranks were ruptured by tree impact resulting in a intense fuel fed fire.  Due to the remoteness of the accident site the aircraft was destroyed by fire before the arrival of the fire department units.
+
+Survival Aspects
+During ground slide out the nose baggage storage area, the left wing, and left side of the aircraft were severely damaged as the result of contact with a large tree stump.  This resulted in displacement of some of the avionic units mounted in the nose/baggage area, pilot's seat track breakage, and jamming of the main cabin entrance door.  Mr. Hall and Mr. Anderson were required to exit the aircraft via the emergency hatch of the right side where the majority of fuel spillage fire was occurring and this sustained second degree burns.  There were no other reported injuries.  
+
+Mr. Munson's injuries were diagnosed as a severe contusion (head), contusion (heart) hemorage, and necrosis of the cervical spinal cord.  The Summit County Coroner classified cause of death as "asphyxiation due to acute laryngeal edema due to inhalation of superheated air and toxic substances."     The Summit County Forensic Laboratory, Akron, OH, the Ohio State University Toxicology Laboratory, Columbus, OH, and the FAA Civil Aero Institute Laboratory, Oklahoma City, OK, conducted the toxicological examinations. Levels of carbon monoxide and cyanide were insignificant.  Findings for alcohol and drugs were negative.  Due to the free movement of the pilot's seat, after tree stump contact, and lack of shoulder harness restraint it could not be determined what objects in the cockpit inflicted the various injuries.  The fastened seat belt which attached to the seat would not have provided any restraint after the seat attach point separated.
+
+Failure to use the available shoulder harness restraints system is deemed a contribution  factor in the death of Pilot Munson.
+
+Tests and Research
+The Pratt-Whitney JT15D-1A engines were shipped to the manufacturer's facilities for teardown and inspection.  The report of examination has been made an attachment to this report.  In summary, no preimpact mechanical defects were found that would have caused power interruption or spool up delay prior to accident occurrence.
+
+The engine vertical tape instruments for the fan speed, fuel flow, ITT, and turbine speed were removed and bench tested in an attempt to determine engine operation at time of occurrence.  Due to the heat and fire damage sustained by the instruments the tests were inconclusive.
